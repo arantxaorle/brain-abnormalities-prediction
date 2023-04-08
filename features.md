@@ -1,8 +1,8 @@
 |Prenatal| |
 |:----|:----|
 |Alcohol in pregnancy|Yes/No|
+|Cesarea|Yes/No|
 |Clinical chorioamnionitis |Yes/No|
-|Histologic chorioamnionitis|Yes/No|
 |Gestational diabetes|Yes/No|
 |Maternal age at the time of delivery|Integer|
 |Prenatal steroids|Nº dosis: 1/2/3|
