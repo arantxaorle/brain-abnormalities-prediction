@@ -72,7 +72,6 @@
 | |Peritoneal drainage|
 | |Laparotomy|
 |Pneumothorax|Yes/No|
-|Number of positive cultures|Integer|
 |Enterocolitis |Yes/No|
 |Ductus arteriosus|Yes/No|
 |Retinopathy|Yes/No|
