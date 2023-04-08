@@ -47,6 +47,8 @@
 | |Intermittent positive-pressure ventilation + CPAP|
 | |Intubation| 
 | |Adrenaline|
+|Clinical Risk Index for Babies|<11|
+| |>=11
 |Resuscitation|Yes/No|
 |Sex|Men/Women|
 
