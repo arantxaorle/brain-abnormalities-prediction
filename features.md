@@ -2,7 +2,7 @@
 |:----|:----|
 |Alcohol in pregnancy|Yes/No|
 |Cesarea |Yes/No|
-|Histologic chorioamnionitis|Yes/No|
+|Clinical chorioamnionitis|Yes/No|
 |Gestational diabetes|Yes/No|
 |Maternal age at the time of delivery|IntegerPrenatal steroids|Nº dosis: 1/2/3|
 |In vitro fertilization |Yes/No|
