@@ -63,9 +63,6 @@
 |Days controlled mechanical ventilation|Integer
 |Days intermittent positive pressure ventilation|Integer|
 |Dosis surfactant|No/1/2/More than 2|
-|Patent ductus arteriosus|No|
-| |Yes, no impact|
-| |Yes, with impact|
 |Hyaline membrane disease|Yes/No|
 |Pulmonary interstitial emphysema |Yes/No|
 |Necrotizing enterocolitis|Yes/No|
