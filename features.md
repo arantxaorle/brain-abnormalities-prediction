@@ -1,7 +1,7 @@
 |Prenatal| |
 |:----|:----|
 |Alcohol in pregnancy|Yes/No|
-|Clinical chorioamnionitis |Yes/No|
+|Cesarea |Yes/No|
 |Histologic chorioamnionitis|Yes/No|
 |Gestational diabetes|Yes/No|
 |Maternal age at the time of delivery|IntegerPrenatal steroids|Nº dosis: 1/2/3|
@@ -51,7 +51,6 @@
 |Necrotizing enterocolitis|Yes/No|
 |Pulmonary hemorrhage|Yes/No|
 |Nasal intermittent positive pressure ventilation|Yes/No|
-|Management of enterocolitis|Conservative|Peritoneal drainage|
 | |Laparotomy|
 |Pneumothorax|Yes/No|
 |Number of positive cultures|IntegerEnterocolitis |Yes/No|
@@ -61,6 +60,5 @@
 |Late sepsis|Yes/No|
 |Days of respiratory support|IntegerSurfactant|Yes/No|
 |Minimally invasive surfactant|Yes/No|
-|Type corticoid|Dexamethasone|Hydrocortisone|
 |Controlled mechanical ventilation|Yes/No|
 |Days non-invasive ventilation|Integer|
