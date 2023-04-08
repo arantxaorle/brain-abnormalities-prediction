@@ -68,9 +68,6 @@
 |Necrotizing enterocolitis|Yes/No|
 |Pulmonary hemorrhage|Yes/No|
 |Nasal intermittent positive pressure ventilation|Yes/No|
-|Management of enterocolitis|Conservative|
-| |Peritoneal drainage|
-| |Laparotomy|
 |Pneumothorax|Yes/No|
 |Enterocolitis |Yes/No|
 |Ductus arteriosus|Yes/No|
