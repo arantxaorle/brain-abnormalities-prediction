@@ -27,6 +27,7 @@
 
 |Perinatal | |
 |:----|:----|
+|Adrenaline|Yes/No|
 |Apgar score 1|1-10|
 |Apgar score 5|1-10|
 |Air mask nose and mouth|Yes/No|
