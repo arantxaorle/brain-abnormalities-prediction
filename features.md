@@ -15,7 +15,6 @@
 |Multiple birth|Yes/No|
 |Preeclampsia|Yes/No|
 |Negative serology|Yes/No|
-|Antenatal magnesium sulfate|Yes/No|
 |Tobacco in pregnancy|No smoke|
 | |Smoke, but not during gestation| 
 | |< 20 cigarettes per day|
