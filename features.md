@@ -81,7 +81,5 @@
 |Days of respiratory support|Integer|
 |Surfactant|Yes/No|
 |Minimally invasive surfactant|Yes/No|
-|Type corticoid|Dexamethasone|
-| |Hydrocortisone|
 |Controlled mechanical ventilation|Yes/No|
 |Days non-invasive ventilation|Integer|
